@@ -28,9 +28,6 @@
 
 		<ul>
 			<li><a href="<?php echo site_url() ?>">Home</a></li>
-			<li><a href="http://tutorialzine.com/2013/03/simple-php-blogging-system/">Read the tutorial!</a></li>
-			<li><a href="http://tutorialzine.com/members/">Members area</a></li>
-			<li><a href="http://tutorialzine.com/contact/">Contact Us</a></li>
 		</ul>
 
 		<p class="author"><?php echo config('blog.authorbio') ?></p>
